@@ -47,9 +47,11 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="<?=PROJECT_PATH?>view/factura/create.php">Agregar</a></li>
-            <li><a class="dropdown-item" href="<?=PROJECT_PATH?>view/factura/">Listar</a></li>
+            <li><a class="dropdown-item" href="<?=PROJECT_PATH?>view/factura/">Listar</a></li>         
+            <!--
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Imprimir</a></li>
+            -->
           </ul>
         </li>        
         <li class="nav-item dropdown">
